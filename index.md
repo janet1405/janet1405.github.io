@@ -14,9 +14,20 @@ nav_item: home
 
 I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!!
 
- 
+test1
+
 [![][smallpic]][largepic]
 
+[smallpic]: \assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg "Cremorne Point Map"
+[largepic]: \assets\img\cremorne_point\WalkAroundCremornePoint.jpg
+
+
+ttest2
+
+
+| - | - |
+|---|---|
+| [![][smallpic]][largepic]  | I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!! |
 [smallpic]: \assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg "Cremorne Point Map"
 [largepic]: \assets\img\cremorne_point\WalkAroundCremornePoint.jpg
 
