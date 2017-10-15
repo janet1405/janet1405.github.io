@@ -20,7 +20,7 @@ test1
 
 test2
 
-<a href="\assets\img\cremorne_point\WalkAroundCremornePoint.jpg"><img align="left" src="\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" hspace="20"/><a> 
+<a href="\assets\img\cremorne_point\WalkAroundCremornePoint.jpg"><img align="left" src="\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" hspace="20" title="Cremorne Point Map"></a> 
 I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!!                                     
 <br>
 <br>
