@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "Walks for the Dangerously Well: Home Page"
-header_title: Dangerously Well
+title: "Dangerously Well: Home Page"
 nav_item: home
 ---
 
