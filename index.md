@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "Walks for the Dangerously Well: Home Page"
+header_title: Dangerously Well
+nav_item: home
 ---
 
 
