@@ -12,10 +12,7 @@ layout: default
 I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!!
 
 
-![](\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg)
-
-
-[![](\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg)](\assets\img\cremorne_point\WalkAroundCremornePoint_250_300.jpg)
+[![](\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg "Cremorne Point Map")](\assets\img\cremorne_point\WalkAroundCremornePoint.jpg)
 
 
 
