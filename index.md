@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Dangerously Well: Home Page"
+header_title: Dangerously Well
 nav_item: home
 ---
 
