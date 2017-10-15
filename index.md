@@ -27,9 +27,7 @@ test2
 
 <img align="left" src="\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" />  
  
-I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!! 
-
-<img class="aligncenter"/>
+I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!!  zxcvxcvxcv zxcv                    zxcv                         xcv               xcv z zxcvzxcv                        zxcv
 
 <div style="clear:both;"></div>
  
@@ -37,25 +35,6 @@ I have done this walk sporadically for more than 50 years and have never got tir
 
 
 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
  
  
 
