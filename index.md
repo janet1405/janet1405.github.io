@@ -16,12 +16,7 @@ I have done this walk sporadically for more than 50 years and have never got tir
 
 test1
 
-[![][\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg "Cremorne Point Map"]](\assets\img\cremorne_point\WalkAroundCremornePoint.jpg)
-
-[smallpic]: \assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg "Cremorne Point Map"
-[largepic]: \assets\img\cremorne_point\WalkAroundCremornePoint.jpg
-
-
+[![](\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg "Cremorne Point Map")](\assets\img\cremorne_point\WalkAroundCremornePoint.jpg)
 
 test2
 
