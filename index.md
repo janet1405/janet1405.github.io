@@ -38,8 +38,6 @@ ttest2
 ttest3
 
 
- <div style="float:left"><img src="\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" /></div>  I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!! 
- 
  
  
  
