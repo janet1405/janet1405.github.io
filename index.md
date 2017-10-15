@@ -29,7 +29,8 @@ ttest2
  
  I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!! 
 
-</>  
+
+  <img align="left" />  
  
 
 
