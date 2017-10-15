@@ -6,13 +6,13 @@ layout: default
 
 
 
-# [](#header-1)[Walk around Cremorne Point](\assets\writing\another-page)
+# [](#header-1)[Walk around Cremorne Point](\walks\cremorne_point\walks_around_cremorne_point)
 
 
 I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!!
 
 
-![](\assets\images\WalkAroundCremornePoint_112_150.jpg)
+![](\walks\cremorne_point\WalkAroundCremornePoint_112_150.jpg)
 
 
 
