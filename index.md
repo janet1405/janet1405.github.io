@@ -21,9 +21,6 @@ test1
 [smallpic]: \assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg "Cremorne Point Map"
 [largepic]: \assets\img\cremorne_point\WalkAroundCremornePoint.jpg
 
-test 3
-
- <img src="\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" class="callout"/> I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!! 
 
 
 test2
@@ -31,8 +28,7 @@ test2
 <img align="left" src="\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" />  
  
 I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!! 
- 
- <img align="center"/> 
+<div style="clear:both;"></div>
  
  
 
