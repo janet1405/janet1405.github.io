@@ -4,23 +4,22 @@ layout: default
 
 
 
-## [](#header-1)[Walk around Cremorne Point](another-page)
 
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-![](/assets/WalkAroundCremornePoint.jpg)
+# [](#header-1)[Walk around Cremorne Point](another-page)
 
 
-![](\assets\WalkAroundCremornePoint.jpg)
+![](\assets\WalkAroundCremornePoint_225_300.jpg)
 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
+I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!!
 
 
 * * *
+
+# [](#header-2)Header 2
+
+
 
 
 
