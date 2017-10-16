@@ -34,21 +34,6 @@ If you are joining us for lunch, you can either wait for the main group at Mosma
 Hawthorn Mosman is a new casual restaurant and wine bar, owned and operated by Sean Byrne, who was general manager of Jonah’s Whale Beach for ten years before deciding it was time to set up shop in his own neighbourhood here at Mosman.
 
 
-[home]      [back](./)     [next](./)
-
-<form>
-  <input type="button" value="back" onclick="history.back">
-  <input>
-</form>
-
-<form>
-  <input type="button" value="home" onclick="window.location.href='https://www.dangerouslywell.com.au/'">
-  <input>
-</form>
-
-<form>
-  <input type="button" value="next" onclick="history.back">
-  <input>
-</form>
+[home](https://www.dangerouslywell.com.au)      [back](./)     [next](./manly_foreshore.md)
 
 
