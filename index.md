@@ -22,7 +22,7 @@ I have done this walk sporadically for more than 50 years and have never got tir
 # [](#header-2)&nbsp;[Manly Scenic Foreshore Walk](\walks\manly_foreshore)
 
 
-<a href="\assets\img\cremorne_point\map_manly_foreshore_walk.jpg"><img align="left" src="\assets\img\cremorne_point\map_manly_foreshore_walk_150_106.jpg" hspace="10" title="Cremorne Point Map"></a> 
+<a href="\assets\img\manly_foreshore\map_manly_foreshore_walk.jpg"><img align="left" src="\assets\img\manly_foreshore\map_manly_foreshore_walk_150_106.jpg" hspace="10" title="Cremorne Point Map"></a> 
 The Manly Scenic Foreshore walk commences just about opposite Willyama Street and is clearly marked. Go slow and make frequent use of the many benches to admire the harbour views. This is a wonderful walk on a sunny day and quite famous.
 <br>
 <br>
