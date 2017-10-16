@@ -36,3 +36,19 @@ Hawthorn Mosman is a new casual restaurant and wine bar, owned and operated by S
 
 [home]      [back](./)     [next](./)
 
+<form>
+  <input type="button" value="back" onclick="history.back">
+  <input>
+</form>
+
+<form>
+  <input type="button" value="home" onclick="window.location.href='https://www.dangerouslywell.com.au/'">
+  <input>
+</form>
+
+<form>
+  <input type="button" value="next" onclick="history.back">
+  <input>
+</form>
+
+
