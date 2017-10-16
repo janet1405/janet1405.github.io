@@ -21,7 +21,7 @@ I have done this walk sporadically for more than 50 years and have never got tir
 <br>
 
 
-# [](#header-2)[&nbsp;Manly Scenic Foreshore Walk](\walks\manly_foreshore)
+# [](#header-2)&nbsp;[Manly Scenic Foreshore Walk](\walks\manly_foreshore)
 
 The Manly Scenic Foreshore walk commences just about opposite Willyama Street and is clearly marked. Go slow and make frequent use of the many benches to admire the harbour views. This is a wonderful walk on a sunny day and quite famous.
 
