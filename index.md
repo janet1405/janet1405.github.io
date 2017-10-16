@@ -3,6 +3,8 @@ layout: default
 title: "Dangerously Well: Home Page"
 header_title: Dangerously Well
 nav_item: home
+<link rel="shortcut icon" href="/assets/img/icons/favicon/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/assets/img/icons/favicon/favicon.ico" type="image/x-icon">
 ---
 
 
