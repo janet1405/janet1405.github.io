@@ -18,7 +18,6 @@ I have done this walk sporadically for more than 50 years and have never got tir
 <br>
 <br>
 <br>
-<br>
 # [](#header-2)&nbsp;[Manly Scenic Foreshore Walk](\walks\manly_foreshore)
 
 
@@ -30,4 +29,3 @@ The Manly Scenic Foreshore walk commences just about opposite Willyama Street an
 <br>
 <br>
 <br>
-
