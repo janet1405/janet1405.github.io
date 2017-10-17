@@ -23,8 +23,8 @@ The Manly Scenic Foreshore walk commences just about opposite Willyama Street an
 <br>
 <br>
 <hr>
-<div class="text-center screen-shot">
-    <div class="row neg-margin">
+<div class="container-fluid">
+    <div class="row">
         <div class="col-md-2">
             <img src="{{site.assetsurl}}\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" alt="Cremorne Point Walk"/>
         </div>
