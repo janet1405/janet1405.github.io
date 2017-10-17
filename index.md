@@ -22,4 +22,17 @@ The Manly Scenic Foreshore walk commences just about opposite Willyama Street an
 <br>
 <br>
 <br>
+<hr>
+<div class="text-center screen-shot">
+    <div class="row neg-margin">
+        <div class="col-md-2">
+            <img src="{{site.assetsurl}}\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" alt="Cremorne Point Walk"/>
+        </div>
+        <div class="col-md-10">
+            <h2>Cremorne Point Walk</h2>
+            <p>I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!!</p>
+        </div>
+    </div>
+</div>
+<hr>
 
