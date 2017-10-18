@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: walks
 ---
 
 ## Walk around Cremorne Point
