@@ -6,6 +6,7 @@ nav_item: home
 ---
 <br>
 <hr>
+<br>
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-2">
@@ -17,6 +18,7 @@ nav_item: home
         </div>
     </div>
 </div>
+<br>
 <hr>
 <br>
 <div class="container-fluid">
@@ -30,5 +32,6 @@ nav_item: home
         </div>
     </div>
 </div>
+<br>
 <hr>
 <br>
