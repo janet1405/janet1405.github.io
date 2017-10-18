@@ -20,7 +20,7 @@ nav_item: home
             <a href="\assets\img\cremorne_point\WalkAroundCremornePoint.jpg"><img align="left" src="\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" hspace="10" title="Cremorne Point Map"></a> 
         </div>
         <div class="col-md-10">
-            ### [](#header-1)[Walk around Cremorne Point](\walks\walk_around_cremorne_point)
+            <h3>[Walk around Cremorne Point](\walks\walk_around_cremorne_point)</h3>
             <p>I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!!</p>
         </div>
     </div>
