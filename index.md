@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Dangerously Well: Home Page"
+title: "Walks for the Dangerously Well"
 header_title: Dangerously Well
 nav_item: home
 ---
@@ -26,10 +26,10 @@ The Manly Scenic Foreshore walk commences just about opposite Willyama Street an
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-2">
-            <img src="{{site.assetsurl}}\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" alt="Cremorne Point Walk"/>
+            <a href="\assets\img\cremorne_point\WalkAroundCremornePoint.jpg"><img align="left" src="\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" hspace="10" title="Cremorne Point Map"></a> 
         </div>
         <div class="col-md-10">
-            <h2>Cremorne Point Walk</h2>
+            <h3>Cremorne Point Walk</h3>
             <p>I have done this walk sporadically for more than 50 years and have never got tired of it!! It is one of the most beautiful walks in all of Sydney. I just wish I had done it more often!!</p>
         </div>
     </div>
