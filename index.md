@@ -5,12 +5,11 @@ header_title: Dangerously Well
 nav_item: home
 ---
 <br>
-<br>
 <hr>
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-2">
-            <a href="\assets\img\cremorne_point\WalkAroundCremornePoint.jpg"><img align="left" src="\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" title="Cremorne Point Map"></a> 
+            <a href="\assets\img\cremorne_point\WalkAroundCremornePoint.jpg"><img src="\assets\img\cremorne_point\WalkAroundCremornePoint_112_150.jpg" title="Cremorne Point Map"></a> 
         </div>
         <div class="col-md-10">
             <h3><a href="\_posts\walk_around_cremorne_point">Walk around Cremorne Point</a></h3>
@@ -19,10 +18,11 @@ nav_item: home
     </div>
 </div>
 <hr>
+<br>
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-2">
-            <a href="\assets\img\manly_foreshore\map_manly_foreshore_walk.png"><img align="left" src="\assets\img\manly_foreshore\ap_manly_foreshore_walk_150_106.png" title="Manly Foreshore Map"></a> 
+            <a href="\assets\img\manly_foreshore\map_manly_foreshore_walk.png"><img src="\assets\img\manly_foreshore\map_manly_foreshore_walk_150_106.png" title="Manly Foreshore Map"></a> 
         </div>
         <div class="col-md-10">
         <h3><a href="\_posts\manly_foreshore">Manly Scenic Foreshore Walk</a></h3>
@@ -31,3 +31,4 @@ nav_item: home
     </div>
 </div>
 <hr>
+<br>
