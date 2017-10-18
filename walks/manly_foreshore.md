@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: walks
 ---
 
 ## Welcome to another page location
