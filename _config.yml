@@ -5,8 +5,6 @@ image:
 author: Janet Sietsma
 language: en-au
 logo: 
-webmaster_verifications:
-  google: google15a12e28b6ce332f.html
 show_downloads: false
 google_analytics: UA-106572453-1
 theme: jekyll-theme-cayman
