@@ -9,9 +9,8 @@ show_downloads: false
 google_analytics: UA-106572453-1
 theme: jekyll-theme-cayman
 
+# Plugins (GitHub Pages only support a few)
 gems:
    - jekyll-seo-tag
-   
-plugins:
-  - jekyll-seo-tag
+   - jekyll-sitemap
 
