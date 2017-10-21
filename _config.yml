@@ -8,7 +8,7 @@ logo:
 show_downloads: false
 google_analytics: UA-106572453-1
 #theme: jekyll-theme-cayman
-theme: minima
+theme: jekyll-theme-minima
 
 # Plugins (GitHub Pages only support a few)
 gems:
