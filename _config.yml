@@ -5,3 +5,7 @@ show_downloads: false
 language: en-au
 google_analytics: UA-106572453-1
 theme: jekyll-theme-cayman
+
+gems:
+   - jekyll-seo-tag
+   
