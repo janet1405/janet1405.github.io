@@ -1,4 +1,6 @@
-# The Cayman theme
+# Walks for the Dangerously Well
+
+## Theme
 
 [![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
@@ -100,8 +102,15 @@ To test any html code goto
 - https://jsfiddle.net
 - codepen.io
 
-### Coding resources
+
+## Coding resources
 - css-tricks.com
 - http://wtf.tw/ref/duckett.pdf
+- caniuse.com - keeps track of the latest standard accepted by a range of browswer
+- validator.w3.org - checks your website is valid, and if so, chances are it will work in all browsers
+
+
+
+
 
 
